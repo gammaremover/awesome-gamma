@@ -2,6 +2,8 @@
 
 > A curated list of tools, guides, and resources for [Gamma.app](https://gamma.app) — the AI presentation maker. Export workflows, watermark solutions, pricing breakdowns, and alternatives.
 
+![Awesome Gamma — tools, guides and watermark solutions](assets/banner.webp)
+
 Gamma generates presentations, documents, and websites from prompts. This list collects everything useful around it that Gamma's own docs don't cover.
 
 ## Contents
